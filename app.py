@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 import sklearn
-
+#hello github
 st.write("pressure, dewpoint, humidity, cloud, rainfall, sunshine, winddirection, windspeed")
 st.title("Rainfall Prediction")
 a1=st.number_input("Enter pressure : ")
